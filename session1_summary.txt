@@ -1,0 +1,18 @@
+Version Control System:
+             Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
+
+Centralized VCS:
+              Centralized VCS have a single server that contains all the versioned files, and a number of clients that check out files from that central place. based on the idea that there is a single central copy of your project somewhere  and programmers will commit their changes to this central copy.
+
+Distributed VCS:
+             These systems do not necessarily rely on a central server to store all the versions of a project’s files. Instead, every developer clones a copy of a repository and has the full history of the project on their own hard drive.
+
+Code Review Tools:
+              Code Review Tools are the online application programs that helps us to remove the bugs in our code and thus making it a more optimized one.
+examples:crucible,gerrit,gitlab.
+
+Git:
+   Git is a free and open source distributed version control system .It is used for software development and other version control tasks.
+
+GitHub:
+    GitHub is a web-based Git repository hosting service. It offers all of the distributed version control and source code management functionality of Git as well as adding its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project. 
